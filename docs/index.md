@@ -1,3 +1,4 @@
+[ほげ](./fuga/hoge.md)
 ![ほげ](./hoge.png)
 ほげ[ふが](https://github.com/)ぴよ
 # レベル0
